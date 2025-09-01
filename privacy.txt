@@ -1,0 +1,42 @@
+# Always Private Chat — Privacy Policy
+
+**Effective date:** September 1, 2025
+
+## Summary
+
+Always Private Chat does not collect, store, or transmit any personal data. The extension runs entirely on your device and only clicks each site’s built-in **Private/Temporary chat** toggle when you visit ChatGPT or Grok.
+
+## What the extension does
+
+* Injects a small content script on `chatgpt.com` and `grok.com`/`x.ai`.
+* Locates the site’s **Private/Temporary** toggle and turns it **on** if it’s off.
+* No other actions or features.
+
+## Data collection
+
+* **Collected:** None
+* **Stored:** None
+* **Sent to servers:** None
+* **Cookies/Local storage:** Not used by the extension
+* **Analytics/Tracking:** None
+
+## Permissions
+
+* **Host permissions** for `chatgpt.com` and `grok.com`/`x.ai` are required only so the script can read the page structure and click the toggle. The extension does not access or exfiltrate page content.
+
+## Third parties
+
+* No third-party code, SDKs, analytics, or advertising.
+
+## Children’s privacy
+
+* No data is collected from any users, including children.
+
+## Changes to this policy
+
+* If this policy changes, the update will be reflected here and in the extension changelog.
+
+## Contact
+
+* For questions or issues, please contact the developer via the Chrome Web Store listing page.
+
