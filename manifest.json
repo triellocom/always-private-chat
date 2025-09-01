@@ -1,9 +1,14 @@
 {
   "manifest_version": 3,
   "name": "Always Private Chat (ChatGPT + Grok. Unofficial)",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Automatically enables Temporary/Private chat on ChatGPT & Grok by default. Unofficial; not a VPN or encryption tool.",
   "permissions": [],
+  "icons": {
+    "16": "always-private-chat-icon-16x16.png",
+    "48": "always-private-chat-icon-48x48.png",
+    "128": "always-private-chat-icon-128x128.png"
+  },  
   "host_permissions": [
     "https://chatgpt.com/*",
     "https://*.chatgpt.com/*",
