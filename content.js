@@ -94,6 +94,7 @@
     tryEnable();
     setTimeout(tryEnable, 400);
     setTimeout(tryEnable, 1200);
+    return;
 
     observer.observe(document.documentElement, {
       childList: true,
